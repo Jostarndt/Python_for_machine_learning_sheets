@@ -1,6 +1,6 @@
-# Python_for_machine_learning_sheets
+# Python for machine learning sheets
 
-Here you can see some easy exercised I had to solve and did with great fun and success. These Examples include:
+Here you can see some easy exercised I had to solve and did with great fun and success to enter as a prerequisit for a machine learning course. These Examples include:
 1. Use of MNIST-Data
 2.Intense NumPy
 
